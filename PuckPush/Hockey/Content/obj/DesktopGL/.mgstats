@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Projects/PuckPush/PuckPush/Hockey/Content/ball.png","D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",521,16469,0,2564186
+"D:/Projects/PuckPush/PuckPush/Hockey/Content/gates.png","D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/gates.xnb","TextureProcessor","Texture2DContent",263,32853,0,0153786
+"D:/Projects/PuckPush/PuckPush/Hockey/Content/LocalGame.PNG","D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/LocalGame.xnb","TextureProcessor","Texture2DContent",1167,49673,0,0101366
+"D:/Projects/PuckPush/PuckPush/Hockey/Content/MainFont.spritefont","D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/MainFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0,1230925
+"D:/Projects/PuckPush/PuckPush/Hockey/Content/MainMenu.PNG","D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/MainMenu.xnb","TextureProcessor","Texture2DContent",28029,5392413,0,1304377
+"D:/Projects/PuckPush/PuckPush/Hockey/Content/RoomNumber.PNG","D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/RoomNumber.xnb","TextureProcessor","Texture2DContent",309,55597,0,0196556
+"D:/Projects/PuckPush/PuckPush/Hockey/Content/ScoreFont.spritefont","D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/ScoreFont.xnb","FontDescriptionProcessor","SpriteFontContent",2066,4199458,0,2615412

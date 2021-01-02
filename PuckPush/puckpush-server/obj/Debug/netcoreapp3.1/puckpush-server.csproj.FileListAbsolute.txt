@@ -1,0 +1,13 @@
+D:\Projects\PuckPush\PuckPush\puckpush-server\bin\Debug\netcoreapp3.1\puckpush-server.exe
+D:\Projects\PuckPush\PuckPush\puckpush-server\bin\Debug\netcoreapp3.1\puckpush-server.deps.json
+D:\Projects\PuckPush\PuckPush\puckpush-server\bin\Debug\netcoreapp3.1\puckpush-server.runtimeconfig.json
+D:\Projects\PuckPush\PuckPush\puckpush-server\bin\Debug\netcoreapp3.1\puckpush-server.runtimeconfig.dev.json
+D:\Projects\PuckPush\PuckPush\puckpush-server\bin\Debug\netcoreapp3.1\puckpush-server.dll
+D:\Projects\PuckPush\PuckPush\puckpush-server\bin\Debug\netcoreapp3.1\puckpush-server.pdb
+D:\Projects\PuckPush\PuckPush\puckpush-server\obj\Debug\netcoreapp3.1\puckpush-server.AssemblyInfoInputs.cache
+D:\Projects\PuckPush\PuckPush\puckpush-server\obj\Debug\netcoreapp3.1\puckpush-server.AssemblyInfo.cs
+D:\Projects\PuckPush\PuckPush\puckpush-server\obj\Debug\netcoreapp3.1\puckpush-server.csproj.CoreCompileInputs.cache
+D:\Projects\PuckPush\PuckPush\puckpush-server\obj\Debug\netcoreapp3.1\puckpush-server.dll
+D:\Projects\PuckPush\PuckPush\puckpush-server\obj\Debug\netcoreapp3.1\puckpush-server.pdb
+D:\Projects\PuckPush\PuckPush\puckpush-server\obj\Debug\netcoreapp3.1\puckpush-server.genruntimeconfig.cache
+D:\Projects\PuckPush\PuckPush\puckpush-server\obj\Debug\netcoreapp3.1\puckpush-server.csprojAssemblyReference.cache
