@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>D:/Projects/PuckPush/PuckPush/Hockey/Content/RoomNumber.PNG</SourceFile>
-  <SourceTime>2020-12-26T13:28:08.9772088+03:00</SourceTime>
+  <SourceTime>2021-01-03T00:24:42.064729+03:00</SourceTime>
   <DestFile>D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/Content/RoomNumber.xnb</DestFile>
-  <DestTime>2020-12-26T13:54:14.3298881+03:00</DestTime>
+  <DestTime>2021-01-04T10:06:39.8729986+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

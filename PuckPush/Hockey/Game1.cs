@@ -1,5 +1,6 @@
 ﻿using Hockey.Entities;
 using Hockey.Menu;
+using Hockey.Multiplayer;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -25,6 +26,7 @@ namespace Hockey
         PlayerStriker playerTwo;
         Puck puck;
         GameManager gameManager;
+        Startup multiplayerStartup;
 
         MenuButton playButton;
         RoomInput roomInput;
@@ -72,7 +74,8 @@ namespace Hockey
 
             gameManager = new GameManager(puck, playerStrikers, graphics);
             puck.gameManager = gameManager;
-
+            multiplayerStartup = new Startup(gameManager);
+            multiplayerStartup.Initialize();
         }
 
         protected override void LoadContent()

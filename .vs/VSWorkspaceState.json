@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PuckPush",
+    "\\PuckPush\\puckpush-server"
   ],
+  "SelectedNode": "\\PuckPush\\PuckPush.sln",
   "PreviewInSolutionExplorer": false
 }

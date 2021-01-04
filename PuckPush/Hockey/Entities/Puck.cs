@@ -73,13 +73,13 @@ namespace Hockey.Entities
             {
                 if (position.Y > (graphics.PreferredBackBufferHeight - gatesTextureUpper) / 2 + radius && position.Y + radius < upperBound)
                 {
-                    if (position.X - radius < 0 - radius * 2)
+                    if (position.X < 0 + radius /2)
                     {
                         //Handle receive point for the right team
                         ResetPosition();
                         gameManager.IncrementPoints(GameManager.Teams.Right);
                     }
-                    else if (position.X > graphics.PreferredBackBufferWidth + radius * 2)
+                    else if (position.X > graphics.PreferredBackBufferWidth - radius /2)
                     {
                         //Handle receive point for the left team
                         ResetPosition();

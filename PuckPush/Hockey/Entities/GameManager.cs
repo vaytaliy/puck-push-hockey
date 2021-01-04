@@ -8,8 +8,8 @@ namespace Hockey.Entities
 {
     class GameManager
     {
-        private Puck puck;
-        private List<PlayerStriker> playerStrikers;
+        public Puck puck;
+        public List<PlayerStriker> playerStrikers;
         public Dictionary<Teams, int> scores { get; set; }
         private GraphicsDeviceManager graphics;
         public bool inputLock = false;
@@ -52,9 +52,7 @@ namespace Hockey.Entities
             if (scores[scoredTeam] < maxScore)
             {
                 scores[scoredTeam] += 1;
-                Console.WriteLine($"Team {scoredTeam} scores!" +
-                    $"\n=== Current score ===" +
-                    $"\n{scores[Teams.Left]} : {scores[Teams.Right]}");
+
                 if (scores[scoredTeam] == maxScore)
                 {
                     Console.WriteLine($"The winner is {scoredTeam}");

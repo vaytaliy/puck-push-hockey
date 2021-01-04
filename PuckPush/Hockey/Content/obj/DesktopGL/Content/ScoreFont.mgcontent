@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>D:/Projects/PuckPush/PuckPush/Hockey/Content/ScoreFont.spritefont</SourceFile>
-  <SourceTime>2021-01-02T19:26:49.6757834+03:00</SourceTime>
+  <SourceTime>2021-01-03T00:24:42.064729+03:00</SourceTime>
   <DestFile>D:/Projects/PuckPush/PuckPush/Hockey/Content/bin/DesktopGL/Content/ScoreFont.xnb</DestFile>
-  <DestTime>2021-01-02T19:33:52.2927511+03:00</DestTime>
+  <DestTime>2021-01-04T10:06:40.2810018+03:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54+03:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
