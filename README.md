@@ -2,6 +2,7 @@
 Monogame project for an aero hockey-like online multiplayer game
 It was created in less than 3 days so a lot of things may not look nice and aren't handled gracefully (menus, connecting to server etc)
 
+You can download it from here: https://github.com/vaytaliy/puck-push-hockey/tree/main/PuckPush/Hockey/bin/Debug/netcoreapp3.1/publish
 
 Purpose of the project:
 1. Practice C# and OOP 
