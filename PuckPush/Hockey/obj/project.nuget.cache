@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P9I7OP7dTuhwrKI0wqfsgKZdLO0sLtl4IDPPIHvxwMf4Qtd/9EkL9bYEAAWHPB7OCAtWMR0xj+EqxGOpQVXYZw==",
+  "dgSpecHash": "siE2V0M50QvpNCapMUdiJ0FK0dk4yhpaqPCDKX6eisv15uZuRBd3OWAvK197f1/0naB0rSe8dHbkObdDKPS8Ag==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\PuckPush\\PuckPush\\Hockey\\Hockey.csproj",
+  "projectFilePath": "D:\\Forks\\hockey\\puck-push-hockey\\PuckPush\\Hockey\\Hockey.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ehhvi\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
     "C:\\Users\\ehhvi\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"

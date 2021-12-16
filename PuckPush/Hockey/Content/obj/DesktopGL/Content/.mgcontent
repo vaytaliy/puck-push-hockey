@@ -4,13 +4,13 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Projects/PuckPush/PuckPush/Hockey/Content/ball.png</File>
-    <File>D:/Projects/PuckPush/PuckPush/Hockey/Content/gates.png</File>
-    <File>D:/Projects/PuckPush/PuckPush/Hockey/Content/LocalGame.PNG</File>
-    <File>D:/Projects/PuckPush/PuckPush/Hockey/Content/MainFont.spritefont</File>
-    <File>D:/Projects/PuckPush/PuckPush/Hockey/Content/MainMenu.PNG</File>
-    <File>D:/Projects/PuckPush/PuckPush/Hockey/Content/RoomNumber.PNG</File>
-    <File>D:/Projects/PuckPush/PuckPush/Hockey/Content/ScoreFont.spritefont</File>
+    <File>D:/Forks/hockey/puck-push-hockey/PuckPush/Hockey/Content/ball.png</File>
+    <File>D:/Forks/hockey/puck-push-hockey/PuckPush/Hockey/Content/gates.png</File>
+    <File>D:/Forks/hockey/puck-push-hockey/PuckPush/Hockey/Content/LocalGame.PNG</File>
+    <File>D:/Forks/hockey/puck-push-hockey/PuckPush/Hockey/Content/MainFont.spritefont</File>
+    <File>D:/Forks/hockey/puck-push-hockey/PuckPush/Hockey/Content/MainMenu.PNG</File>
+    <File>D:/Forks/hockey/puck-push-hockey/PuckPush/Hockey/Content/RoomNumber.PNG</File>
+    <File>D:/Forks/hockey/puck-push-hockey/PuckPush/Hockey/Content/ScoreFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

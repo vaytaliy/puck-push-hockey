@@ -179,11 +179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\PuckPush\\PuckPush\\Hockey\\Hockey.csproj",
+      "projectUniqueName": "D:\\Forks\\hockey\\puck-push-hockey\\PuckPush\\Hockey\\Hockey.csproj",
       "projectName": "Hockey",
-      "projectPath": "D:\\Projects\\PuckPush\\PuckPush\\Hockey\\Hockey.csproj",
+      "projectPath": "D:\\Forks\\hockey\\puck-push-hockey\\PuckPush\\Hockey\\Hockey.csproj",
       "packagesPath": "C:\\Users\\ehhvi\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\PuckPush\\PuckPush\\Hockey\\obj\\",
+      "outputPath": "D:\\Forks\\hockey\\puck-push-hockey\\PuckPush\\Hockey\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ehhvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,6 +198,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -209,6 +210,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MonoGame.Content.Builder.Task": {
             "target": "Package",
@@ -234,7 +236,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

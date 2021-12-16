@@ -13,7 +13,7 @@ namespace Hockey.Multiplayer
     {
 
         private GameManager gameManager;
-        private string address = "192.168.142.241"; //used for testing only
+        private string address;
         private int port = 8005;
         private string message;
         private Socket socket;
@@ -21,6 +21,7 @@ namespace Hockey.Multiplayer
         string messageData;
         public Client(GameManager gameManager)
         {
+            address = GetIpv4Address();
             this.gameManager = gameManager;
         }
 
@@ -48,6 +49,19 @@ namespace Hockey.Multiplayer
                 Console.WriteLine(ex.Message);
                 Exit();
             }
+        }
+
+        public string GetIpv4Address()
+        {
+            var host = Dns.GetHostEntry(Dns.GetHostName());
+            foreach (var ip in host.AddressList)
+            {
+                if (ip.AddressFamily == AddressFamily.InterNetwork)
+                {
+                    return ip.ToString();
+                }
+            }
+            throw new Exception("Unable to find IPv4 address");
         }
 
         public void HandleReceivedMessages()
