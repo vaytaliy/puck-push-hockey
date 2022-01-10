@@ -14,5 +14,5 @@ You can download it from here: https://github.com/vaytaliy/puck-push-hockey/tree
 
 if you play online you may need to port-forward in settings by allowing UDP on port 8005, don't need to do this for LAN. Check your public IP address and share it to the client (friend who will connect to play)
 
-Once server is created click on the local game button wait for 2nd player to connect and they have to press the same button
+Once server is created click on the local game button wait for 2nd player to connect. 2nd player has to choose "join server option" in client, input address and if it goes successful press "local game" button
 
